@@ -1,0 +1,9 @@
+{
+  "ο[verified]": "⫊",
+  "ο[checksum_passed]": "⫋",
+  "ο[checksum_failed]": "⫌",
+  "ο[authentic]": "⫍",
+  "ο[corrupt]": "⫎",
+  "ο[tampered]": "⫏",
+  "ο[validated]": "⫐"
+}

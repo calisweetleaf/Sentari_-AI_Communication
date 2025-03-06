@@ -1,0 +1,18 @@
+{
+  "symbol": "⟲",
+  "term": "β[retr]",
+  "category": "Verb",
+  "definition_short": "Retrieve",
+  "definition_long": "The action of retrieving or pulling data from storage or remote sources.",
+  "examples": ["β[retr] α[dat] ⟲ ⊡"],
+  "relationships": {
+    "related_verbs": ["β[store]", "β[exec]"],
+    "antonyms": ["β[delete]"]
+  },
+  "metadata": {
+    "created": "2025-03-06",
+    "modified": "2025-03-06",
+    "version": "1.0",
+    "author": "Somnus Development Research and Development Collective"
+  }
+}

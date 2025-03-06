@@ -1,0 +1,9 @@
+{
+  "λ[certain]": "⨳",
+  "λ[probable]": "⩐",
+  "λ[uncertain]": "⩑",
+  "λ[unlikely]": "⩒",
+  "λ[highly_unlikely]": "⩓",
+  "λ[impossible]": "⩔",
+  "λ[unknown]": "⩕"
+}

@@ -1,0 +1,21 @@
+term: "α[dat]"
+category: "Nouns"
+symbol: "⊡"
+short_definition: "Data Entity"
+detailed_definition: "A structured or unstructured collection of information stored or processed within computational or network systems."
+examples:
+  - "β[retr] α[dat] ⟲ ⊡"
+  - "α[dat] ο[checksum_passed] ⫋"
+related_terms:
+  verbs:
+    - "β[store]"
+    - "β[exec]"
+related_categories:
+  - "Data_Integrity"
+  - "Resource_Management"
+contextual_usage_notes: "Frequently used with verbs related to storage, retrieval, and validation."
+cross_references:
+  - "ο[verified]"
+  - "ρ[allocated]"
+validation_state: "draft"
+last_updated: "2025-03-06"

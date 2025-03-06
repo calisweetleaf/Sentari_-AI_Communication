@@ -1,0 +1,13 @@
+{
+  "ρ[allocated]": "⬄",
+  "ρ[unallocated]": "⬅",
+  "ρ[overloaded]": "⬆",
+  "ρ[priority_high]": "⬐",
+  "ρ[priority_medium]": "⬑",
+  "ρ[priority_low]": "⬒",
+  "ρ[reserved]": "⬗",
+  "ρ[shared]": "⬘",
+  "ρ[dedicated]": "⬙",
+  "ρ[task_completed]": "⬥",
+  "ρ[task_aborted]": "⬤"
+}

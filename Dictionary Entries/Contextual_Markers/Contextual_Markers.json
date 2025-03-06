@@ -1,0 +1,9 @@
+{
+  "κ[assumption]": "⧳",
+  "κ[precedent]": "⧴",
+  "κ[inference]": "⧵",
+  "κ[extrapolation]": "⧶",
+  "κ[generalization]": "⧷",
+  "κ[meta]": "⨊",
+  "κ[context_shift]": "⨉"
+}
