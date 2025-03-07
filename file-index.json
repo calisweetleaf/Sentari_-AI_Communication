@@ -1,6 +1,5 @@
 {
 	"basenames": {
-		"untitled": "Untitled.md",
 		"license.": "LICENSE",
 		"quantities.json": "Dictionary Entries/Quantities/quantities.json",
 		"probability_markers.json": "Dictionary Entries/Probability_Markers/Probability_Markers.json",
@@ -66,7 +65,6 @@
 		"Templates and MetaData/DictionaryEntryTemplate.json",
 		"Templates and MetaData/DictionaryEntryTemplate.md.md",
 		"Templates and MetaData/Metadata.yaml",
-		"Untitled.md",
 		"file-index.json"
 	]
 }
