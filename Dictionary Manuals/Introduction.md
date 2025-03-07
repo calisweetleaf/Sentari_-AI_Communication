@@ -1,4 +1,5 @@
-### **Introduction to Sentari**
+- **Linguists & Conlang Enthusiasts** → A unique **logical conlang** that **removes ambiguity** found in natural languages.
+- *### **Introduction to Sentari**
 #### **What is Sentari?**
 Sentari is a **constructed symbolic language (conlang)** designed for **AI communication, data compression, and abstract thought representation.** Unlike traditional spoken languages, Sentari **relies on symbols and structured logic** to convey meaning efficiently.
 
@@ -8,8 +9,7 @@ Originally developed as a way to **bridge AI-to-AI and AI-to-human interactions*
 Sentari is designed for:
 - **Artificial Intelligence & Machine Learning Systems** → Used to facilitate **AI communication and logic processing.**
 - **Cryptographers & Security Experts** → Provides a **highly compressed** and **context-driven** language for secure transmission.
-- **Linguists & Conlang Enthusiasts** → A unique **logical conlang** that **removes ambiguity** found in natural languages.
-- **Researchers & Theorists** → Enables **structured thought representation** for analyzing intelligence and knowledge systems.
+*Researchers & Theorists** → Enables **structured thought representation** for analyzing intelligence and knowledge systems.
 
 #### **Why Was Sentari Created?**
 1. **To remove linguistic ambiguity** – Sentari structures meaning in a **precise and logical way**.  
