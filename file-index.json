@@ -1,6 +1,6 @@
 {
 	"basenames": {
-		"202503061919": "202503061919.md",
+		"untitled": "Untitled.md",
 		"license.": "LICENSE",
 		"quantities.json": "Dictionary Entries/Quantities/quantities.json",
 		"probability_markers.json": "Dictionary Entries/Probability_Markers/Probability_Markers.json",
@@ -23,8 +23,6 @@
 		"syntax_markers.json": "Dictionary Entries/Syntax_Markers/Syntax_Markers.json",
 		"time_markers.json": "Dictionary Entries/Time_Markers/time_markers.json",
 		"transformation_markers.json": "Dictionary Entries/Transformation_Markers/transformation_markers.json",
-		"transmission_markers.json": "Dictionary Entries/Transmission_Markers/transmission_markers.json",
-		"verbs.json": "Dictionary Entries/Verbs/verbs.json",
 		"dictionaryentrytemplate.json": "Templates and MetaData/DictionaryEntryTemplate.json",
 		"dictionaryentrytemplate.md": "Templates and MetaData/DictionaryEntryTemplate.md.md",
 		"metadata.yaml": "Templates and MetaData/Metadata.yaml",
@@ -37,7 +35,6 @@
 		"file-index.json": "file-index.json"
 	},
 	"paths": [
-		"202503061919.md",
 		"Dictionary Entries/Compression_Abstraction/compression.json",
 		"Dictionary Entries/Contextual_Markers/Contextual_Markers.json",
 		"Dictionary Entries/Data_Integrity/data_integrity.json",
@@ -59,8 +56,6 @@
 		"Dictionary Entries/Syntax_Markers/Syntax_Markers.json",
 		"Dictionary Entries/Time_Markers/time_markers.json",
 		"Dictionary Entries/Transformation_Markers/transformation_markers.json",
-		"Dictionary Entries/Transmission_Markers/transmission_markers.json",
-		"Dictionary Entries/Verbs/verbs.json",
 		"Dictionary Manuals/Appendices.md",
 		"Dictionary Manuals/Grammar & Syntax.md",
 		"Dictionary Manuals/Introduction.md",
@@ -71,6 +66,7 @@
 		"Templates and MetaData/DictionaryEntryTemplate.json",
 		"Templates and MetaData/DictionaryEntryTemplate.md.md",
 		"Templates and MetaData/Metadata.yaml",
+		"Untitled.md",
 		"file-index.json"
 	]
 }
