@@ -1,0 +1,10 @@
+{
+  "θ[end]": "⟠",
+  "θ[command]": "⨐",
+  "θ[query]": "⨑",
+  "θ[conditional]": "⨒",
+  "θ[response]": "⨓",
+  "θ[execution]": "⨠",
+  "θ[context_switch]": "⨣",
+  "θ[loop]": "⨤"
+}
